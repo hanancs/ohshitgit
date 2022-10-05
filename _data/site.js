@@ -148,6 +148,11 @@ module.exports = {
             code: "fi",
             arialabel: "Valitse kieli",
         },
+        {
+            label: "தமிழ்",
+            code: "ta",
+            arialabel: "மற்றய மொழிகளில் பார்வையிட",
+        },
     ],
     collaborators: [
         {
@@ -289,6 +294,11 @@ module.exports = {
             name: "Senja Jarva",
             link: "https://github.com/sjarva",
             lang: "fi",
+        },
+        {
+            name: "Ben Hanan Subendran",
+            link: "https://github.com/hanancs",
+            lang: "ta",
         },
     ],
     otherhelpers: [
